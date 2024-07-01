@@ -11,4 +11,4 @@ Tisztelt Felhasználók!\
 
 ---
 
-<sub>Az [Online Egyetem Moodle rendszert itt találja.](https://onlineegyetem.elearning.uni-obuda.hu)</sub>
+<sub>Az [Online Egyetem Moodle rendszert itt találja.](https://onlineegyetem.uni-obuda.hu)</sub>
