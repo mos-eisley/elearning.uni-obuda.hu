@@ -2,7 +2,7 @@
 ## Fejlesztés alatt
 
 Tisztelt Felhasználók!\
-E-learning rendszereinkben verziófrissítést és fejlesztéseket végzünk **2024. július 8-tól** várhatóan július 31-ig. Ezen időszak alatt az E-learning rendszerek **nem elérhetőek.**\
+E-learning rendszereinkben verziófrissítést és fejlesztéseket végzünk **2024. július 8-tól** várhatóan augusztus közepéig. Ezen időszak alatt az E-learning rendszerek **nem elérhetőek.**\
 Türelmüket és megértésüket köszönjük! Kérdés esetén forduljanak hozzánk bizalommal a moodlesupport@uni-obuda.hu e-mail-címen!
 
 *Dear Users!\
